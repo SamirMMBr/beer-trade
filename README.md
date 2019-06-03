@@ -16,7 +16,7 @@ Link uteis:
 
 [Hub](https://hub.github.com/) Extensão de linha de comando para GitHub
 
-Gitflow(https://br.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[Gitflow](https://br.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 [GitKraken](https://www.gitkraken.com/), para uso comercial é pago.
 
