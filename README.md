@@ -16,7 +16,7 @@ Link uteis:
 
 [Hub](https://hub.github.com/) Extensão de linha de comando para GitHub
 
-[GitKraken](https://www.gitkraken.com/)
+[GitKraken](https://www.gitkraken.com/), para uso comercial é pago.
 
 [Emoji](https://gitmoji.carloscuesta.me) no GitHub
 
