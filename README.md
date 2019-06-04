@@ -8,8 +8,9 @@ Este projeto será escrito do zero e ao vivo no canal do [Code Monkey Nights](ht
 
 UI proposta está em http://bit.ly/maratona-live-ui
 
-23/04/2019 - [Live 1](https://www.youtube.com/watch?v=U4zJuHJxJjY)
-
+23/04/2019 - [Live 1 - Criar repositório, projeto e configurar CI no App Center para Android](https://www.youtube.com/watch?v=U4zJuHJxJjY)
+30/04/2019 - [Live 2 - Maratona Xamarin Live, segundo dia. iOS deploy e Fastlane](https://www.youtube.com/watch?v=GkIpqHC6pr0)
+02/05/2019 - [Live 3 - Tudo sobre testes](https://youtu.be/06Jxu5OHPPk)
 
 
 Link uteis:
